@@ -1,0 +1,11 @@
+*.iml
+.idea
+.classpath
+.project
+target
+test-output
+.allure-*
+.allure
+.DS_Store
+log
+logs

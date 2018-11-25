@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="cucumber test" >
+    <test name="api test" >
+        <classes>
+            <class name="com.pinke.liudao.runners.TestRunner" />
+        </classes>
+    </test>
+</suite>
